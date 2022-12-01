@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hellooooo!! glad to see you here :) </h1>
+
 
 
 <p> Welcom to my page </br> I am Hadi and I'm computer engineering student at Shahid Beheshti University of Tehran </p>
