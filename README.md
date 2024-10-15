@@ -1,8 +1,8 @@
 
 
 
-<p> Welcom to my page </br> I am Hadi and I'm computer engineering student at Shahid Beheshti University of Tehran </p>
-<h3>Things that I like...</h3>
+<p> Welcome to my page! I'm Hadi, a Computer Engineering graduate from Shahid Beheshti University in Tehran. I am pursuing a Master's in Computer Science at Paderborn University in Germany.</p>
+<h3>Things I enjoy...</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
